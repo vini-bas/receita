@@ -32,11 +32,18 @@ body{
 
 .titulo{
     color: #0c0b0b;
-}
+    font-size: 20px;
+ }
+
+ .titulo-principal{
+    color: #0c0b0b;
+    font-size: 28px;
+ }
 
 li{
     text-align: left;
     color: #3a3939;
+    font-size: 16px;
 }
 
 .cor-interna img{
@@ -47,6 +54,7 @@ li{
 
 .texto-foto{
     text-align: right;
+    font-size: 12px;
 }
 
 .creditos{
@@ -61,6 +69,7 @@ li{
 
 .a{
     color: #8F8F8F;
+    font-size: 12px;
 }
 
 .texto-foto{

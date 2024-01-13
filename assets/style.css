@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.cor-externa{
+    background-color:#EAEAEA;
+    height: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.cor-interna{
+    background-color: #FFFFFF;
+    padding: 20px;
+    max-width: 600px;
+    text-align: center;
+    flex: 1;
+    margin-top: 40px;
+        
+ }
+
+.titulo{
+    color: #0c0b0b;
+}
+
+li{
+    text-align: left;
+    color: #3a3939;
+}
+
+.cor-interna img{
+    width: 100%;
+    height: auto;
+    height: 200px;
+}
+
+.texto-foto{
+    text-align: right;
+}
+
+.creditos{
+    text-align: center;
+    width: 100%;
+    margin-top: 6px;
+}
+
+.adicionais {
+    color: #39393A;
+}
+
+.a{
+    color: #8F8F8F;
+}
+
+.texto-foto{
+    color:  #8F8F8F;
+}
